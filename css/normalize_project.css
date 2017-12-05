@@ -12,8 +12,8 @@ body {
 article, aside, details, figcaption, figure, footer, header, main, menu,
 nav, section {
     display: block;
-	background-color: #E87E04;
-	height: 20px;
+	background-color: #E9D460;
+	height: 25px;
 }
 
 summary {

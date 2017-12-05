@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
-title: Support Vector Olives
-description: Keeping Italian Olives Pure!
+title: MSA Crime Prediction
+description: Attempt to predict future crimes within an MSA
 baseurl:
 markdown: kramdown
 kramdown:

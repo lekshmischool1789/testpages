@@ -19,7 +19,7 @@
 	<div class="container-lg px-3 my-5 markdown-body">
 		<nav class="group">
 			{% if site.title and site.title != page.title %}
-			<a href="{{ " / " | absolute_url }}">{{ site.title }}</a> {% endif %} {% assign navigation_pages = site.html_pages | sort: 'nav_include' %} {% for node in navigation_pages %} {% if node.nav_include %} {% if page.url == node.url %} &nbsp;|&nbsp;
+			<a href="{{ "/" | absolute_url }}">{{ site.title }}</a> {% endif %} {% assign navigation_pages = site.html_pages | sort: 'nav_include' %} {% for node in navigation_pages %} {% if node.nav_include %} {% if page.url == node.url %} &nbsp;|&nbsp;
 			<a class="active" href="{{node.url | prepend: site.baseurl}}" class="active" style="color:#b4d5fe">{{node.title}}</a> {% else %} &nbsp;|&nbsp;
 			<a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a> {% endif %} {% endif %} {% endfor %}
 		</nav>

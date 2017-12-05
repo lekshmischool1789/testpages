@@ -216,12 +216,13 @@ body {
 }
 
 a {
-    color: #0366d6;
+    color: black;
     text-decoration: none
 }
 
 a:hover {
-    text-decoration: underline
+	color: white;
+    text-decoration: none;
 }
 
 b, strong {

@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 title: MSA Crime Prediction
 description: Attempt to predict future crimes within an MSA
 baseurl:

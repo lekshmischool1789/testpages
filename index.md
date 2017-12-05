@@ -1,8 +1,8 @@
 ---
-title: The Case of the Italian Olives
+title: MSA Crime Prediction
 ---
 
-This is the home page
+This is the **INDEX.MD** file of our CS109 project!
 
 ## Lets have fun
 

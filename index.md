@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MSA Crime Prediction
 ---
 
 This is the **INDEX.MD** file of our CS109 project!

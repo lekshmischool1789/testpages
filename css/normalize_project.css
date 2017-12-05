@@ -39,11 +39,13 @@ template, [hidden] {
 
 a {
     background-color: transparent;
-    -webkit-text-decoration-skip: objects
+    -webkit-text-decoration-skip: objects;
+	color:black
 }
 
 a:active, a:hover {
-    outline-width: 0
+    outline-width: 0;
+	color:black
 }
 
 abbr[title] {

@@ -12,7 +12,8 @@ body {
 article, aside, details, figcaption, figure, footer, header, main, menu,
 nav, section {
     display: block;
-	background-color: #2cabb2
+	background-color: teal;
+	width: 20px;
 	
 }
 

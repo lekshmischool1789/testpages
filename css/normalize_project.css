@@ -227,6 +227,13 @@ a:hover {
 	font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
+a:active {
+	color: teal;
+    text-decoration: none;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
 b, strong {
     font-weight: 600
 }

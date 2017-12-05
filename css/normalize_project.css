@@ -217,12 +217,14 @@ body {
 
 a {
     color: black;
-    text-decoration: none
+    text-decoration: none;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 a:hover {
 	color: white;
     text-decoration: none;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 b, strong {
